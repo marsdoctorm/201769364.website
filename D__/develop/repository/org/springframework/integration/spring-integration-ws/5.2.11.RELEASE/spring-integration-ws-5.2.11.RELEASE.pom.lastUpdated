@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 27 13:23:23 GMT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1711545803469
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.springframework.integration\:spring-integration-ws\:pom\:5.2.11.RELEASE from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: status code\: 401, reason phrase\:  (401)
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1711545803144

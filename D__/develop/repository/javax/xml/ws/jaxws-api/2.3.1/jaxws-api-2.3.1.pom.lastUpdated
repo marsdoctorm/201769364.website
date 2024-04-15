@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 27 13:22:17 GMT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1711545737609
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact javax.xml.ws\:jaxws-api\:pom\:2.3.1 from/to jvnet-nexus-releases (https\://maven.java.net/content/repositories/releases/)\: PKIX path validation failed\: java.security.cert.CertPathValidatorException\: validity check failed
+@default-jvnet-nexus-releases-https\://maven.java.net/content/repositories/releases/.lastUpdated=1711545737507

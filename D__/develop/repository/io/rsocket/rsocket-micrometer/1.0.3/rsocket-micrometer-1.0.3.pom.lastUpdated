@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 27 13:22:12 GMT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1711545732692
+http\://0.0.0.0/.error=Could not transfer artifact io.rsocket\:rsocket-micrometer\:pom\:1.0.3 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-restlet (http\://maven.restlet.org, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1711545732460

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 27 13:22:18 GMT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1711545738482
+http\://0.0.0.0/.error=Could not transfer artifact net.sourceforge.htmlunit\:htmlunit\:pom\:2.36.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [terracotta-snapshots (http\://www.terracotta.org/download/reflector/snapshots, default, releases+snapshots), terracotta-releases (http\://www.terracotta.org/download/reflector/releases, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1711545738372

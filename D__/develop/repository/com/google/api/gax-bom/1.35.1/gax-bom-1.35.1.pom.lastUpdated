@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 27 13:22:29 GMT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1711545749505
+https\://repo.spring.io/libs-milestone-local/.error=
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1711545749334
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1711545749464
+https\://repo.spring.io/release/.error=Could not transfer artifact com.google.api\:gax-bom\:pom\:1.35.1 from/to spring-releases (https\://repo.spring.io/release)\: status code\: 401, reason phrase\:  (401)

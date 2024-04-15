@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 27 13:22:30 GMT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1711545750816
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.lucene\:lucene-solr-grandparent\:pom\:8.2.0 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-restlet (http\://maven.restlet.org, default, releases+snapshots), apache.snapshots (http\://repository.apache.org/snapshots, default, snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1711545749739
+https\://repository.cloudera.com/artifactory/libs-release/.lastUpdated=1711545750749
+https\://repository.cloudera.com/artifactory/libs-release/.error=
